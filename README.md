@@ -1,2 +1,2 @@
 # Project-Welcome-MrStark
-# This project incluedes How tony stark Print "Welcome MR.STARK" in terminal, How I created with and science behind it (How #s show letters) And Print anything with hashes on terminal.
+# This project includes how Tony Stark Print "Welcome MR.STARK" in the terminal, How I created and the science behind it (How #s show letters) And Print anything with hashes on the terminal.
